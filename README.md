@@ -1,6 +1,6 @@
 ### This code allows you to play Fox And Hounds against your computer from the terminal
 
-This was created following a coursework from the University of Edinburgh. The pdf file walks you through the implementation
+FoxHoundGame.java is the main class file. This project was created following a coursework from the University of Edinburgh. The pdf file walks you through the implementation.
 
 #### Rules of the Game
 The following section will introduce you to the specific rules of the game. The game is played on a classic 8x8 checker board (some of the exercises might ask you to make this more interesting by offering arbitrary sizes). There are two parties playing the game at any time. One party plays the hounds and the other plays the fox. The hounds try to catch the fox while the fox tries to break through the line of hounds to escape.
